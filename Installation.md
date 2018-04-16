@@ -6,7 +6,7 @@ Copy this boilerplate in your home folder to use it with ease.
 
 Now delete the useless files and folders to avoid cloning the boilerplate repository everytime you are developing something.
 
-- __`$ cd commandline-boilerplate && sudo rm -rf .git && rm -r install.md`__
+- __`$ cd commandline-boilerplate && sudo rm -rf .git && rm -r Installation.md`__
 
 Create an empty repository on GitHub and clone it.
 
